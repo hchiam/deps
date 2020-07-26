@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# To run this file: bash show_dep_graph.sh
+# To run this file directly: bash deps.sh
 
 function askForMaxDepth() {
   read -p "Enter max depth: " maxDepth
