@@ -16,6 +16,16 @@ Now you can use it in any folder with this command:
 deps
 ```
 
+## Example
+
+```bash
+deps
+Enter max depth: 
+Enter src folder (or folder or file you'd like to inspect): src
+```
+
+<img src="example.svg" height="300">
+
 ## Further development
 
 Commands I found useful while creating this CLI tool from scratch:
