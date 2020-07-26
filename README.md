@@ -1,3 +1,5 @@
+<img src="example.svg" height="150" title="See usage/example below.">
+
 # `@hchiam/deps`
 
 [![version](https://img.shields.io/npm/v/@hchiam/deps.svg?style=flat-square)](https://www.npmjs.com/package/@hchiam/deps) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hchiam/deps/blob/master/LICENSE)
@@ -24,7 +26,7 @@ Enter max depth:
 Enter src folder (or folder or file you'd like to inspect): src
 ```
 
-<img src="example.svg" height="300">
+<img src="example.svg" height="300" title="The nodes are clickable, but only link to local files.">
 
 ## Further development
 
