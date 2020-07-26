@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/npm/v/@hchiam/deps.svg?style=flat-square)](https://www.npmjs.com/package/@hchiam/deps) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/hchiam/deps/blob/master/LICENSE)
 
-This CLI tool `deps` generates a [dependency graph](https://en.wikipedia.org/wiki/Dependency_graph) of your files. You just have to give it a file or folder as a starting point. You can (optionally) tell it how deep to explore. It's basically a convenient but limited wrapper around [`depcruise`](https://www.npmjs.com/package/dependency-cruiser), which gives you an interactive SVG (clicking on nodes show you code from local files). 
+This interactive CLI tool `deps` generates a [dependency graph](https://en.wikipedia.org/wiki/Dependency_graph) of your files. You just have to give it a file or folder as a starting point. You can (optionally) tell it how deep to explore. It's basically a convenient but limited wrapper around [`depcruise`](https://www.npmjs.com/package/dependency-cruiser), which gives you an interactive SVG (clicking on nodes show you code from local files). 
 
 ## Usage
 
