@@ -11,5 +11,11 @@
   "preferGlobal": true,
   "bin": {
     "deps": "deps.sh"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "git://github.com/hchiam/deps.git"
   }
 }
