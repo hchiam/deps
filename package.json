@@ -1,0 +1,15 @@
+{
+  "name": "@hchiam/deps",
+  "version": "1.0.0",
+  "description": "Create a dependency graph, starting from a folder or file.",
+  "main": "deps.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hchiam",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "test-cli": "deps.sh"
+  }
+}
