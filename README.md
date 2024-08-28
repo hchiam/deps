@@ -35,3 +35,7 @@ Commands I found useful while creating the npm package for this CLI tool from sc
 - `npm link`
 - `rm /Users/howard/.nvm/versions/node/v10.13.0/bin/deps`
 - `npm publish --access public`
+
+A newer example of how to publish to npm (package.json setup only + `yarn publish`): 
+- https://github.com/hchiam/trysterollup/tree/24457690a715e1c57e701b0d51e3b6fd3e50491c
+- https://github.com/hchiam/trysterollup/blob/24457690a715e1c57e701b0d51e3b6fd3e50491c/package.json
